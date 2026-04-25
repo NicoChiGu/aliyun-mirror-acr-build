@@ -1,1 +1,1 @@
-ghcr.io/astrbotdevs/shipyard-neo-gull
+FROM ghcr.io/astrbotdevs/shipyard-neo-gull
